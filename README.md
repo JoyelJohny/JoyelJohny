@@ -19,10 +19,10 @@ Welcome to my GitHub! I'm a passionate MERN (MongoDB, Express.js, React, Node.js
 
 ## 🚀 Projects
 
-### [Project 1 Name](Link to Project 1)
-Description of the project. Any key features or challenges faced.
+### [GamerNET]
 
-### [Project 2 Name](Link to Project 2)
+<img src="./Project Screenshots/Screenshot 2023-11-15 220556.png">
+
 Description of the project. Any key features or challenges faced.
 
 ## 🌱 Currently Learning
@@ -38,7 +38,7 @@ Description of the project. Any key features or challenges faced.
 
 - LinkedIn: [JoyelJohny](https://www.linkedin.com/in/joyeljohny/)
 - Email: joyel2johny@gmail.com
-- Twitter: [@JoyelJohny](https://twitter.com/yourtwitter/)
+- Twitter: [@JoyelJohny](https://twitter.com/JoyelJohny)
 
 Thanks for stopping by! 😊
 
