@@ -19,15 +19,17 @@ Welcome to my GitHub! I'm a passionate MERN (MongoDB, Express.js, React, Node.js
 
 ## 🚀 Projects
 
-### [GamerNET]
+### GamerNET
 
 <img src="./Project Screenshots/Screenshot 2023-11-15 220556.png">
 
-Description of the project. Any key features or challenges faced.
+This Webapp lets you to play games and score in leaderboard.
+This was my mini-project for College.
 
 ## 🌱 Currently Learning
 
-- Blockchain Concepts 
+- Blockchain Concepts like Smart Contracts, dapps etc
+- Ethereum
 - Solidity 
 
 ## 📈 GitHub Stats
