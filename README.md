@@ -1,8 +1,7 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Joyel Johny
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green)](https://www.yourportfolio.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourtwitter/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joyeljohny/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/JoyelJohny)
 
 Welcome to my GitHub! I'm a passionate MERN (MongoDB, Express.js, React, Node.js) Fullstack Developer. My mission is to create clean, efficient, and user-friendly applications.
 
@@ -28,23 +27,18 @@ Description of the project. Any key features or challenges faced.
 
 ## 🌱 Currently Learning
 
-- Docker 🐳
-- GraphQL
+- Blockchain Concepts 
+- Solidity 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyelJohny&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin/)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitter/)
-
-## ❤️ Support
-
-If you find my work interesting or helpful, consider supporting it by [buying me a coffee](Link to Buy Me a Coffee) ☕.
+- LinkedIn: [JoyelJohny](https://www.linkedin.com/in/joyeljohny/)
+- Email: joyel2johny@gmail.com
+- Twitter: [@JoyelJohny](https://twitter.com/yourtwitter/)
 
 Thanks for stopping by! 😊
 
