@@ -16,6 +16,7 @@ Welcome to my GitHub! I'm a passionate MERN (MongoDB, Express.js, React, Node.js
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
 ![Git](https://img.shields.io/badge/Git-F05032)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC)
+![Java](https://img.shields.io/badge/Java-47A248)
 
 ## 🚀 Projects
 
