@@ -27,12 +27,6 @@ Welcome to my GitHub! I'm a passionate MERN (MongoDB, Express.js, React, Node.js
 This Webapp lets you to play games and score in leaderboard.
 This was my mini-project for College.
 
-## 🌱 Currently Learning
-
-- Blockchain Concepts like Smart Contracts, dapps etc
-- Ethereum
-- Solidity 
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyelJohny&show_icons=true&count_private=true&hide=prs&theme=radical)
