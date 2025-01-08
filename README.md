@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Joyel Johny
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joyeljohny/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/JoyelJohny)
-
 Welcome to my GitHub! I'm a passionate MERN (MongoDB, Express.js, React, Node.js) Fullstack Developer. My mission is to create clean, efficient, and user-friendly applications.
 
 ## 🔧 Technologies & Tools
@@ -33,7 +30,6 @@ This was my mini-project for College.
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [JoyelJohny](https://www.linkedin.com/in/joyeljohny/)
 - Email: joyel2johny@gmail.com
 - Twitter: [@JoyelJohny](https://twitter.com/JoyelJohny)
 
